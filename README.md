@@ -1,3 +1,13 @@
+<div align="center">
+
+# 本仓库已停止维护
+
+## 项目已迁至 [tukeceshi/z3cz](https://github.com/tukeceshi/z3cz)
+
+</div>
+
+---
+
 # z3cz
 
 **开源可视化工作流与 AI 创作工作台**
